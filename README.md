@@ -1,6 +1,6 @@
 # NeoGrace
 
-*English · [Русский](README.ru.md)*
+*English*
 
 A modern editor for **Grace (.agr)** plots: a replacement for xmgrace/QtGrace that runs
 natively on Apple Silicon Macs (arm64), with no Rosetta needed. Written in C++17 and Qt 6.
