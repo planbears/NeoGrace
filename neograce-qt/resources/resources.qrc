@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+    <file alias="icons/app.png">../packaging/NeoGrace.png</file>
+</qresource>
+</RCC>
